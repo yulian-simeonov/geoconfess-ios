@@ -3,7 +3,7 @@
 //  GeoConfess
 //
 //  Created by Yulian Simeonov on February 26, 2016.
-//  Reviewed by Yulian Simeonov on May 18, 2016.
+//  Reviewed by Yulian Dobrev on May 18, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

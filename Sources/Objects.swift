@@ -3,7 +3,7 @@
 //  GeoConfess
 //
 //  Created  by Andreas Muller on 4/6/16.
-//  Reviewed by Yulian Simeonov on 5/9/16.
+//  Reviewed by Yulian Dobrev on 5/9/16.
 //  Copyright © 2016 YulianMobile. All rights reserved.
 //
 

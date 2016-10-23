@@ -2,8 +2,8 @@
 //  FavoritePriestsViewController.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on 5/1/16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Created by Yulian on 5/1/16.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  NotificationCell.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on April 19, 2016.
-//  Reviewed by Yulian Dobrev on June 2, 2016.
+//  Created  by Dan on April 19, 2016.
+//  Reviewed by Dan Dobrev on June 2, 2016.
 //  Copyright © 2016 KOT. All rights reserved.
 //
 

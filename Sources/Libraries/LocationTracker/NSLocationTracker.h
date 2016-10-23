@@ -2,7 +2,7 @@
 //  LocationTracker.h
 //  Location
 //
-//  Created by Yulian Simeonov
+//  Created by Yulian
 //  Copyright (c) 2014 Location. All rights reserved.
 //
 

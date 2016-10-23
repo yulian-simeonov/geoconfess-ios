@@ -2,8 +2,8 @@
 //  ChatViewController.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on May 5, 2016.
-//  Reviewed by Yulian Dobrev on June 5, 2016.
+//  Created  by Dan on May 5, 2016.
+//  Reviewed by Dan Dobrev on June 5, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

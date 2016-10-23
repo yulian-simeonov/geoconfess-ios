@@ -2,8 +2,8 @@
 //  MainPageViewController.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on 01.03.16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Created by Yulian on 01.03.16.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import UIKit

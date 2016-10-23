@@ -1,7 +1,7 @@
 /*
 The MIT License (MIT)
 
-Copyright (c) 2014-2016 Yulian Simeonov, Antoine Berton
+Copyright (c) 2014-2016 Dan, Antoine Berton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -25,7 +25,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //  TickButton.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on May 26, 2016.
+//  Created by Yulian on May 26, 2016.
 //
 
 import UIKit

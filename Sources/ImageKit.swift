@@ -2,8 +2,8 @@
 //  ImageKit.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on 14/04/16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Created by Yulian on 14/04/16.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import Foundation

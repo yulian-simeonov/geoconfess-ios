@@ -2,7 +2,7 @@
 //  UserSignUp.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on May 26, 2016.
+//  Created by Yulian on May 26, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

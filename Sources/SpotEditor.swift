@@ -2,7 +2,7 @@
 //  SpotEditor.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on June 8, 2016.
+//  Created by Yulian on June 8, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

@@ -2,8 +2,8 @@
 //  NotificationManager.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on April 30, 2016.
-//  Reviewed by Yulian Dobrev on May 31, 2016.
+//  Created  by Dan on April 30, 2016.
+//  Reviewed by Dan Dobrev on May 31, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

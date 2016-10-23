@@ -2,8 +2,8 @@
 //  StaticSpotViewController.swift
 //  GeoConfess
 //
-//  Created b y Yulian Simeonov on April 16, 2016.
-//  Reviewed by Yulian Dobrev on June 4, 2016.
+//  Created b y Dan on April 16, 2016.
+//  Reviewed by Dan Dobrev on June 4, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

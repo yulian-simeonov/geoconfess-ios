@@ -2,8 +2,8 @@
 //  LoadingViewController.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on February 2, 2016.
-//  Reviewed by Yulian Dobrev on June 4, 2016.
+//  Created  by Dan on February 2, 2016.
+//  Reviewed by Dan Dobrev on June 4, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

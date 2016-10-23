@@ -2,8 +2,8 @@
 //  HomePageViewController.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on 3/1/2016.
-//  Reviewed by Yulian Dobrev on 5/11/2016.
+//  Created  by Dan on 3/1/2016.
+//  Reviewed by Dan Dobrev on 5/11/2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

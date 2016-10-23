@@ -2,9 +2,9 @@
 //  User.swift
 //  GeoConfess
 //
-//  Created  by Yulian Simeonov on 2/2/2016.
-//  Reviewed by Yulian Dobrev on 5/10/2016.
-//  Copyright © 2016 Yulian Simeonov. All rights reserved.
+//  Created  by Dan Markov on 2/2/2016.
+//  Reviewed by Yulian Simeonov on 5/10/2016.
+//  Copyright © 2016 Dan. All rights reserved.
 //
 
 import Foundation

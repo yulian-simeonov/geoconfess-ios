@@ -2,7 +2,7 @@
 //  Errors.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on June 29, 2016.
+//  Created by Yulian on June 29, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

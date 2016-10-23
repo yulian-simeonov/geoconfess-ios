@@ -3,7 +3,7 @@
 //  GeoConfess
 //
 //  Created by MobileGod on 4/6/16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import Foundation

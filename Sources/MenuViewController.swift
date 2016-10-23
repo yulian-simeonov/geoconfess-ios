@@ -2,7 +2,7 @@
 //  MenuViewController.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on April 5, 2016.
+//  Created by Yulian on April 5, 2016.
 //  Copyright © 2016 KTO. All rights reserved.
 //
 

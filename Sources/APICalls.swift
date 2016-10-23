@@ -2,8 +2,8 @@
 //  APICalls.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on 01.02.16.
-//  Copyright © 2016 Yulian Simeonov. All rights reserved.
+//  Created by Yulian on 01.02.16.
+//  Copyright © 2016 KTO. All rights reserved.
 //
 
 import UIKit

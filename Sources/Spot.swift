@@ -2,8 +2,8 @@
 //  Spot.swift
 //  GeoConfess
 //
-//  Created by Yulian Simeonov on 5/9/16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Created by Yulian on 5/9/16.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import Foundation

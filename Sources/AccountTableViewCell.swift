@@ -3,7 +3,7 @@
 //  geoconfess
 //
 //  Created by whitesnow0827 on 3/16/16.
-//  Copyright © 2016 YulianMobile. All rights reserved.
+//  Copyright © 2016 DanMobile. All rights reserved.
 //
 
 import UIKit
